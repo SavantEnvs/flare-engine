@@ -1,0 +1,9 @@
+project: savantenvs/flare-engine
+target: fuzz_loot
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_loot/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_loot
+    libfuzzer: true
+    timeout: 10

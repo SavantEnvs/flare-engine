@@ -1,0 +1,13 @@
+[item]
+id=1
+name=Selftest Sword
+level=7
+max_quantity=1
+price=123
+
+[item]
+id=5
+name=Selftest Potion
+level=2
+max_quantity=20
+price=25

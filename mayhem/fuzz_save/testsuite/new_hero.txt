@@ -1,0 +1,21 @@
+## flare-engine save file ##
+name=Fuzzer
+permadeath=0
+option=male,head_short,portraits/male01.png
+class=Adventurer,
+xp=0
+build=1,1,1,1
+equipped_quantity=1,1,0,0,0,0,0,0,0,0
+equipped=1,3,0,0,0,0,0,0,0,0
+active_equipment_set=1
+carried_quantity=99,1,5
+carried=2,5,4
+spawn=maps/spawn.txt,10,12
+actionbar=1,2,3,0,0,0,0,0,0,0,4,5
+transformed=
+powers=1,2,7,42
+campaign=intro_done,met_guard
+time_played=1234
+engine_version=1.14.0
+questlog_dismissed=1
+stash_tab=0

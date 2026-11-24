@@ -1,0 +1,24 @@
+## flare-engine save file ##
+name=Veteran
+permadeath=1
+option=female,head_long,portraits/female02.png
+class=Wanderer,Mage
+xp=125000
+hpmp=88,40
+build=5,3,9,2
+currency=500
+equipped_quantity=1,1,1,1,1,1
+equipped=7,9,11,13,15,17
+active_equipment_set=2
+carried_quantity=1,99,99,1
+carried=21,22,24,255
+spawn=maps/nowhere.txt,3,4
+actionbar=10,11,12,13,14,15,16,17,18,19,1,2
+transformed=werewolf,1
+powers=10,11,12,13,14,15,16,17,18,19,500,600
+campaign=ch1,ch2,boss_dead
+buyback_item=npcs/vendor.txt;3,5,7
+buyback_quantity=npcs/vendor.txt;1,1,1
+time_played=99999
+engine_version=1.12.0
+stash_tab=1
